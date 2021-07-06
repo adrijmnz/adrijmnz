@@ -10,3 +10,12 @@
 <img src="http://www.hackthebox.eu/badge/image/497437" alt="Hack The Box Profile"></img>
 </div>
 </br>
+- Soy estudiante de ASIR con especialidad en Ciberseguridad
+- Especializado en Red Team
+- Certificados : 
+  eJPT (Elearn Junior Penetration Tester) 
+  CHEE (Curso de Hacking Ético Experto)
+ -Actualmente cursando:
+  CRTE (Certificate Red Team Expert)
+  PNPT (Practical Network Penetration Tester)
+  CSCE (Curso de Seguridad y Creacion de Exploit)
