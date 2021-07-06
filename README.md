@@ -13,9 +13,9 @@
 
 -  Soy estudiante de ASIR con especialidad en Ciberseguridad
 -  Especializado en Red Team
--  Certificados <img width="5%" src="https://user-images.githubusercontent.com/37249043/124647382-2c9ed700-de96-11eb-9f4a-ba571eff5170.png"</p> : 
-  eJPT (Elearn Junior Penetration Tester) 
-  CHEE (Curso de Hacking Ético Experto)
+-  Certificados: 
+   eJPT (Elearn Junior Penetration Tester) 
+   CHEE (Curso de Hacking Ético Experto)
 - Actualmente cursando:
   CRTE (Certificate Red Team Expert)
   PNPT (Practical Network Penetration Tester)
